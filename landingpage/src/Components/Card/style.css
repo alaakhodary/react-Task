@@ -1,0 +1,33 @@
+.heading_1 {
+  color: white;
+  text-align: center;
+  margin-top: 1rem;
+}
+.para-1 {
+  color: white;
+  text-align: justify;
+  width: 263px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 155.3%;
+  letter-spacing: 0.13em;
+  margin-top: 1rem;
+}
+.div-card {
+  width: 384px;
+  height: 455px;
+  background: rgba(160, 128, 64, 0.3);
+  border: 1px dashed #ffce6d;
+  margin: 6rem;
+  display: flex;
+}
+.div--img {
+  text-align: center;
+}
+.margin-div {
+  margin: 6.3rem auto;
+  width: 268px;
+}
+.alaa {
+  display: inline-block;
+}

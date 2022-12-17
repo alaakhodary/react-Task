@@ -1,0 +1,33 @@
+.head-1 {
+  color: white;
+  font-family: "Dancing Script", cursive;
+  font-size: 36px;
+  color: #ffce6d;
+}
+.head-2 {
+  color: white;
+  width: 680px;
+  font-size: 30px;
+}
+.paragraph {
+  color: white;
+  width: 557px;
+  font-size: 14px;
+  letter-spacing: 0.13em;
+  margin-top: 2rem;
+}
+.div-contaent {
+  margin: 5rem;
+}
+.btn-2 {
+  margin: 2rem -5.6rem;
+}
+.div-contaent-1 {
+  margin: 5rem 1rem;
+}
+.div-contaent-all {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}

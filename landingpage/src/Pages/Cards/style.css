@@ -1,0 +1,14 @@
+.special {
+  color: white;
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+  font-size: 36px;
+  color: #ffce6d;
+}
+.para {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  font-weight: 500;
+  margin-top: 1rem;
+}

@@ -1,0 +1,31 @@
+.active {
+  border-bottom: 2px solid white;
+}
+.nav {
+  display: flex;
+  align-items: center;
+  height: 76px;
+  background-color: #101418;
+  width: 85%;
+  margin: 9rem auto;
+}
+ul {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  margin-left: 2rem;
+  list-style: none;
+}
+li a {
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  text-decoration: none;
+}
+.search {
+  margin-left: 6rem;
+  cursor: pointer;
+}
+li {
+  margin-left: 5rem;
+}

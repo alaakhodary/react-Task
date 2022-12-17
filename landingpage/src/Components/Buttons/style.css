@@ -1,0 +1,30 @@
+button.btn {
+  width: 272px;
+  height: 76px;
+  background: #a08040;
+  border: 7px solid #a08040;
+  margin-left: 5.6rem;
+  font-weight: 700;
+  font-size: 21px;
+  color: white;
+  cursor: pointer;
+  position: relative;
+}
+button.btn::after {
+  content: "";
+  width: 60px;
+  height: 2px;
+  position: absolute;
+  top: 46.5%;
+  left: 12rem;
+  background-color: #ffffff;
+}
+button.btn::before {
+  content: "";
+  width: 60px;
+  height: 2px;
+  position: absolute;
+  top: 48.5%;
+  right: 12.1rem;
+  background-color: #ffffff;
+}
